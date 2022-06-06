@@ -2,7 +2,7 @@
 
 A ideia deste repositório é práticar conceitos de SOLID utilizando Java.
 
-Irei utilizar o livro "Orientação a Objetos e SOLID para Ninjas" do Mauricio Niche.
+Irei utilizar o livro "Orientação a Objetos e SOLID para Ninjas" do Mauricio Niche e o curso "https://java-programming.mooc.fi/" para eventuais consultas á conceitos relacionados a OOP.
 
 O método constará de:
 
